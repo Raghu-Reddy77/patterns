@@ -5,7 +5,7 @@ package com.java.patterns;
 //1234
 
 
-public class Pattern3 {
+public class Pattern03 {
 
 	public static void main(String[] args) {
 		// outer loop (how many lines =4  )

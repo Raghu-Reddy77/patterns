@@ -5,7 +5,7 @@ package com.java.patterns;
 //***
 //****
 
-public class Pattern1 {
+public class Pattern01 { 
 
 	public static void main(String[] args) {
 

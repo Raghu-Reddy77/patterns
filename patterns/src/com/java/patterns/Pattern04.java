@@ -4,7 +4,7 @@ package com.java.patterns;
 //DEF
 //GHIJ
 
-public class Pattern4 {
+public class Pattern04 {
 
 	public static void main(String[] args) {
 		char ch='A';

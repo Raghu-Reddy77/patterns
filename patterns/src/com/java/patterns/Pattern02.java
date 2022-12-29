@@ -5,7 +5,7 @@ package com.java.patterns;
 //**    line=3 star=2
 //*     line=4 star=1
  
-public class Pattern2 {
+public class Pattern02 {
 
 	public static void main(String[] args) {
 		int n=4;
